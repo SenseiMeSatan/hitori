@@ -41,9 +41,9 @@ const { GroupParticipantsUpdate, MessagesUpsert, Solving } = require('./src/mess
 const { isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, sleep } = require('./lib/function');
 
 /*
-	* Create By Naze
-	* Follow https://github.com/nazedev
-	* Whatsapp : https://whatsapp.com/channel/0029VaWOkNm7DAWtkvkJBK43
+	* Create By Neverbequeen 
+	* Follow https://github.com/SenseiMeSatan
+	* Whatsapp : https://whatsapp.com/6285624954479
 */
 
 async function startNazeBot() {
